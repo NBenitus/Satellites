@@ -1,2 +1,2 @@
-# Satellites
+# Satellites Queries
 NA
